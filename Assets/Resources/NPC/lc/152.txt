@@ -1,0 +1,4 @@
+crashed
+reboot it
+crashed again
+reboot it again!

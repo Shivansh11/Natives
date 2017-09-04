@@ -1,0 +1,4 @@
+your script is not working
+what's the error?
+it's a linking error
+then the problem is with your config.
